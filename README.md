@@ -17,6 +17,8 @@ I am dedicated, hardworking and proactive professional with 3.1 years of experie
 * Servers – Apache Tomcat, Xampp, Wamp.
 * Version Control – Git.
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Connect with me
+
+[<img align="center" alt="Linkedin Profile" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/riddhish-bharadva-b94848b6/
