@@ -17,7 +17,4 @@ I am dedicated, hardworking and proactive professional with 3.1 years of experie
 * Servers – Apache Tomcat, Xampp, Wamp.
 * Version Control – Git.
 
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "https://www.linkedin.com/in/riddhish-bharadva-b94848b6/"
+https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
