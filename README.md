@@ -1,16 +1,23 @@
-### Hi there 👋
+### About Me
 
-<!--
-**Riddhish-Bharadva/Riddhish-Bharadva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am dedicated, hardworking and proactive professional with 3.1 years of experience in IT industry. I have a hands-on experience in Android, Java, Google Cloud Platform, Python, Web Development, SAP BW, SAP ABAP. I have successfully completed my Master of Science in Computing from Griffith College Dublin.
 
-Here are some ideas to get you started:
+### Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- UL -->
+* Programming Language – Java, Python, Core Java, XML, PHP.
+* Cloud Platforms - Google App Engine, AWS.
+* Android Tools – Android Studio, AVD Manager.
+* Database – MySQL, SQLite, Google Datastore, Firestore, MongoDB.
+* Web Technologies – HTML/HTML5, CSS, Bootstrap, JavaScript, jQuery.
+* Framework – Spring boot, Hybernate.
+* API – Restful API, GeoCoding, Geolocation, Maps JavaScript API, Places API, Cloud Vision API, etc.
+* Other Tools – SAP GUI, Visual Studio Code, Eclipse.
+* SAP BI Technologies – SAP BW on HANA, SAP ABAP.
+* Servers – Apache Tomcat, Xampp, Wamp.
+* Version Control – Git.
+
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/riddhish-bharadva-b94848b6/"
