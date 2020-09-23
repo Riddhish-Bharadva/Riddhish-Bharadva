@@ -17,7 +17,7 @@ I am dedicated, hardworking and proactive professional with 3.1 years of experie
 * Servers – Apache Tomcat, Xampp, Wamp.
 * Version Control – Git.
 
-### Connect with me
+### Connect with me on:
 
 [<img align="center" alt="Linkedin Profile" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
