@@ -13,9 +13,8 @@ I am dedicated, hardworking and proactive professional with 3.1 years of experie
 * Framework – Spring boot, Hybernate.
 * API – Restful API, GeoCoding, Geolocation, Maps JavaScript API, Places API, Cloud Vision API, etc.
 * Other Tools – SAP GUI, Visual Studio Code, Eclipse.
-* SAP BI Technologies – SAP BW on HANA, SAP ABAP.
 * Servers – Apache Tomcat, Xampp, Wamp.
-* Version Control – Git.
+* Version Control & CI/CD – Git.
 
 ### Connect with me on:
 
