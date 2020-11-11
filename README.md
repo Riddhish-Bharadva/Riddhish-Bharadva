@@ -1,6 +1,6 @@
 ### About Me
 
-I am dedicated, hardworking and proactive professional with 3.1 years of experience in IT industry. I have a hands-on experience in Android, Java, Google Cloud Platform, AWS, Python, Web Development, SAP BW, SAP ABAP. I have successfully completed my Master of Science in Computing from Griffith College Dublin.
+I am dedicated, hardworking and proactive professional with 3.1 years of experience in IT industry. I have a hands-on experience in Android, Java, Google Cloud Platform, Python, Web Development, etc. I have successfully completed my Master of Science in Computing from Griffith College Dublin.
 
 ### Skills:
 
