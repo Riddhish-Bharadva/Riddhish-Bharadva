@@ -5,16 +5,16 @@ I am dedicated, hardworking and proactive professional with 3.1 years of experie
 ### Skills:
 
 <!-- UL -->
-* Programming Language – Java, Python, Core Java, XML, PHP.
-* Cloud Platforms - Google App Engine, AWS.
+* Programming Language – Java, Core Java, XML, Python.
+* Cloud Platforms - Google App Engine.
 * Android Tools – Android Studio, AVD Manager.
 * Database – MySQL, SQLite, Google Datastore, Firestore, MongoDB.
 * Web Technologies – HTML/HTML5, CSS, Bootstrap, JavaScript, jQuery.
-* Framework – Spring boot, Hybernate.
+* Framework – Spring boot, Hybernate, Jackson, Volley, JUnit.
 * API – Restful API, GeoCoding, Geolocation, Maps JavaScript API, Places API, Cloud Vision API, etc.
-* Other Tools – SAP GUI, Visual Studio Code, Eclipse.
+* Other Tools – IntelliJ, Eclipse, Visual Studio Code, etc.
 * Servers – Apache Tomcat, Xampp, Wamp.
-* Version Control & CI/CD – Git.
+* Version Control & CI/CD – GitHub.
 
 ### Connect with me on:
 
