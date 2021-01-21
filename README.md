@@ -6,10 +6,10 @@ I am dedicated, hardworking and proactive professional with 3.1 years of experie
 
 <!-- UL -->
 * Programming Language – Java, Python.
-* Cloud Platforms - Google Cloud Platform, OpenStack Cloud.
-* Java Frameworks - Hibernate, JPA, Spring Boot, Spring MVC, Jackson, JUnit, etc.
+* Cloud Platforms - AWS, Google Cloud Platform, Heroku, etc.
+* Java Frameworks - Hibernate, JPA, Spring Boot, Spring MVC, Jackson, JUnit, Mockito, etc.
 * Python Libraries - Flask, SQLAlchemy, Unittest, Numpy, Pandas, etc.
-* Database – MySQL, SQLite, Google Datastore, Firestore, MongoDB.
+* Database – MySQL, SQLite, PostgreSQL, Firestore, MongoDB.
 * Android Tools – Android Studio, AVD Manager.
 * Web Technologies – HTML, CSS, Bootstrap, JavaScript, jQuery.
 * API – Restful API, GeoCoding, Geolocation, Maps JavaScript API, Places API, Cloud Vision API, etc.
