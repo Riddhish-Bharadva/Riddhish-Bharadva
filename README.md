@@ -6,15 +6,16 @@ I am currently working as Solutions Developer at Deloitte. I have pursued Master
 
 <!-- UL -->
 * Programming Language – Java, Python.
-* Cloud Platforms - Google Cloud Platform, AWS, Heroku, etc.
 * Java Frameworks - Hibernate, JPA, Spring Boot, Spring MVC, Jackson, JUnit, Mockito, etc.
-* Front End - Angular
-* Database – MySQL, SQLite, PostgreSQL.
+* API Management Tools - 3Scale.
+* Front End - Angular.
+* Database – Oracle, MySQL, SQLite, PostgreSQL.
 * Security - Keycloak.
+* Cloud Platforms - Google Cloud Platform, AWS, Heroku, etc.
 * Web Technologies – HTML, CSS, Bootstrap, JavaScript, TypeScript, jQuery.
 * Android Tools – Android Studio, AVD Manager.
-* Other Tools – IntelliJ, Eclipse, Atom, Visual Studio Code, etc.
-* Version Control & CI/CD – GitHub, GitLab, Jenkins, etc.
+* Other Tools – IntelliJ, Eclipse, STS, VS Code etc.
+* Version Control & CI/CD – GitLab, Jenkins, etc.
 
 ### Connect with me on:
 
